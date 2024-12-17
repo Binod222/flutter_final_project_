@@ -1,4 +1,4 @@
-import 'package:flutter_first_project/common/mysnackbar.dart';
+import 'package:flutter_first_project/core/common/mysnackbar.dart';
 import 'package:flutter/material.dart';
 
 class SnackbarView extends StatefulWidget {

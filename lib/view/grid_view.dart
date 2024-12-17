@@ -20,7 +20,7 @@ class MyGridView extends StatelessWidget {
                   height: 100,
                   width: 100,
                   child: Card(
-                    color: Colors.grey,
+                    color: Colors.green,
                     shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(15)),
                     child: Center(
